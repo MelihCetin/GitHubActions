@@ -33,9 +33,9 @@ jobs:
       uses: aws-actions/configure-aws-credentials@v4
       with:
         aws-region: us-east-1
-        aws-access-key-id: 'ASIAVN3IPFGMWAWXZKYE'
-        aws-secret-access-key: 'qN5Od0E5cXq6Q/DIJxhRMlUDydvypID819IEW9+I'
-        aws-session-token: 'FwoGZXIvYXdzEKT//////////wEaDEKxWuF6a/b/d9TLwCK5AU1oD2S1Tg13HYoavYK9dsnGAgt6Rh2ybDWIeCIUegxFxt//aWsVgQc0hSOvlFXWzlwIoswRGSu3x+WrWMpLUq/lPmOSyMom8uLFUAQrmlQFSDnQ1PJIb8ZAQ9y0y4pEcCX0h7hLzoMTO65z0R+WEXfTUDD+BcJBdMqpEmiw00SPbDoEQ5qA9PNiklS5DxS6QFfW6vEzX56If15d1we2ADppbPuZbOSUkwT8nCTf4QRClfzBoxM62F9LKIaM0KgGMi19y8mzDjOJMegaUS7oQEjGOIqmH96P7wcdCisYfUgGBImzO9sy2DgxZNviDjI='
+        aws-access-key-id: 'ASIA4KGSLQY3MTHUMLND'
+        aws-secret-access-key: 'QTb14wcKG2ac6p6Y0nZiM+i3igp0H1U+lDT/9wsQ'
+        aws-session-token: 'FwoGZXIvYXdzEKT//////////wEaDIGEkYeEvYSc0zpbryK5ATiXEZj8K9AuTqwdrNC4mcZzVCQ+eS2bxCXpdsVe92qHLohM2seAbe51xNetZx+rFLqAu/HrLhU44JIm0K5YHnC3ZIgdm173hYRQyBBe4lzTs5YrmtQ5edkI2aEMwUg4bF7LC0qEuX4oBMDeCiJaFdxOH24DcafD2fsHXX9Dp8lY95EEnusnKVMJ+qrGHc61Sb4IENs3MY+e1wvLfiJxvsjYcOJoeIIQoKocrdaMqLyl92hF2Kqv87/2KMmM0KgGMi3EkSahcCkD5qlUxg5FkqkxahFmT9OMONZ0/AeepTOddYtHiVEW4GS7t5jLkkg='
 
     
     - name: Validate AWS Credentials working or not
